@@ -14,8 +14,9 @@
 🌱 **I’m currently learning** Dart 
 
 📫 **How to reach me**: suhas.saheer@alefeducation.com
-Contact me
-[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/suhas-saal) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhas-saheer-bb570215/)
+
+
+## [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='20'>](https://github.com/suhas-saal) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/suhas-saheer-bb570215/)
 
 
 <b>Bis dahin!</b>
