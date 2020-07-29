@@ -6,7 +6,7 @@
 
 * I am a Technical Architect working for Arabits App
 * I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
-* Proficient in Java, Spring, Hibernate, SpringBoot plus modern libraries and frameworks.
+* Proficient in Java, Spring, Hibernate, SpringBoot, NodeJS plus modern libraries and frameworks.
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
 * I learn and build everything that excites me from cooking food to building large scale application
