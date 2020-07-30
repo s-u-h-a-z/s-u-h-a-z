@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-suhaz247-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/suhaz247/)](https://instagram.com/suhaz247)
 [![Visits Badge](https://badges.pufler.dev/visits/suhas-saal/suhas-saal)](https://badges.pufler.dev)
 
+![](https://github.com/suhaz786/suhaz786/blob/master/images/header_.png)
 
 * I am a Technical Architect working for Arabits App
 * I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
