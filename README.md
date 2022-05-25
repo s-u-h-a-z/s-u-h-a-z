@@ -6,8 +6,8 @@
 
 ![](https://github.com/suhaz786/suhaz786/blob/master/images/header_.png)
 
-* I am a Technical Architect working for Arabits App
-* I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
+* AWS Certified Technical Architect with 15 years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems heavily inspired by 12 factor app methodology and using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Services with strong working knowledge of OOA&D / SOLID patterns and practices
+* Currently I am a Technical Architect leading a team of software engineers and data engineers while creating our digital transformation platform DigiXT.
 * Proficient in Java, Spring, Hibernate, SpringBoot, NodeJS plus modern libraries and frameworks.
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
@@ -44,10 +44,10 @@
 ![Top Langs](https://github-readme-stats.suhaz786.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=tokyonight)
 
 
-🔭 **I’m currently working on**  Springboot and nodejs microservices
+🔭 **I’m currently working on**  Big Data Technologies
 
-🌱 **I’m currently learning** Dart 
+🌱 **I’m currently learning** Go 
 
-📫 **How to reach me**: suhas.saheer@alefeducation.com
+📫 **How to reach me**: s.saheer@saal.ai
 
 <b>Bis dahin!</b>
